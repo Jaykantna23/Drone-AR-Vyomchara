@@ -30,7 +30,7 @@
       }
     },
     "com.unity.inputsystem": {
-      "version": "1.11.0",
+      "version": "1.7.0",
       "depth": 2,
       "source": "registry",
       "dependencies": {
